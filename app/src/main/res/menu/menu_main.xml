@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.droidcafe2.MainActivity">
+    <item
+        android:title="Call Center"
+        android:id="@+id/call"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:title="Sms Center"
+        android:id="@+id/msg"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:title="Lokasi"
+        android:id="@+id/loc"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:title="Update UserPass"
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

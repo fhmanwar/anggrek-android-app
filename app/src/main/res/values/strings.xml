@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="loc">https://www.google.com/maps/place/Dian+Nuswantoro+University/@-6.9826317,110.4070121,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b4ec52229d7:0xc791d6abc9236c7!8m2!3d-6.9826317!4d110.4092008</string>
+    <string name="call">tel:08123456789</string>
+    <string name="msg">smsto:08123456789</string>
+    <string name="deskripsi">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <array name="anggrekImg">
+        <item>@drawable/abulan</item>
+        <item>@drawable/adendrobium</item>
+        <item>@drawable/ahitam</item>
+        <item>@drawable/atanah</item>
+        <item>@drawable/atebu</item>
+        <item>@drawable/avanda</item>
+    </array>
+
+    <array name="anggrekNama">
+        <item>Anggrek Bulan</item>
+        <item>Anggrek Dendrobium</item>
+        <item>Anggrek Hitam</item>
+        <item>Anggrek Tanah</item>
+        <item>Anggrek Tebu</item>
+        <item>Anggrek Vanda</item>
+    </array>
+    <array name="anggrekPrice">
+        <item>150000</item>
+        <item>350000</item>
+        <item>200000</item>
+        <item>1700000</item>
+        <item>1800000</item>
+        <item>1300000</item>
+    </array>
+</resources>
